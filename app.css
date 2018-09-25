@@ -19,3 +19,9 @@ span#name {
     font-weight: bold;
     letter-spacing: 11px;
 }
+#image {
+    margin: 0 auto;
+}
+.jumbotron {
+    text-align: center;
+}
